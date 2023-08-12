@@ -1,0 +1,117 @@
+@import url(https://fonts.googleapis.com/css2?family=Poppins);
+*{
+    font-family: Poppins;
+}
+body{
+    /* height: 100vh; */
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    /* width: 1200pxß; */
+
+
+
+
+}
+body .shape1{
+    /* text-align: center; */
+    width: 700px;
+    background-color: #5a5858;
+    color: #000;
+    padding-left: 28px ;
+    padding-right: 30px;
+    padding-bottom: 50px;
+    padding-top: 20px;
+    height: 1600px;
+    border-radius: 15px;
+    /* margin-top: 50px; */
+    margin-top: 50px;
+    margin-bottom: 50px;
+    box-shadow: 0 0 20px rgba(50, 49, 49, 0.668);
+
+}
+body .shape1 .form-all input{
+    margin-bottom: 20px;
+    width: 580px;
+    height: 40px;
+    padding-left: 20px;
+    background-color: #E5E9F2;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+   
+    
+}
+body .shape1 .form-all{
+    margin-left: 50px;
+}
+body .shape1 .form-all h1{
+    font-size: 40px;
+}
+
+body .shape1 .form-ttl input{
+    margin-bottom: 20px;
+    width: 580px;
+    height: 40px;
+    background-color: #E5E9F2;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    padding-left: 20px;
+    
+
+}
+body .shape1 .form-darah input{
+    margin-bottom: 20px;
+    width: 20px;
+    height: 20px;
+    border: none;
+    font-weight: bold;
+    text-indent: 40px;
+    
+    
+    
+}
+body .shape1 .gender input{
+    margin-bottom: 20px;
+    width: 50px;
+    height: 20px;
+    border: none;
+    font-weight: bold;
+    text-indent: 40px;
+    
+    
+    
+}
+
+body .shape1 .form-telp input{
+    margin-bottom: 20px;
+    width: 600px;
+    height: 40px;
+
+    background-color: #E5E9F2;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+    
+}
+body .shape1 .form-hobi input{
+    margin-bottom: 20px;
+    width: 600px;
+    height: 40px;
+
+    background-color: #E5E9F2;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
+body .shape1 .form-telp button{
+    margin-bottom: 20px;
+    width: 500px;
+    height: 40px;
+
+    background-color: #E5E9F2;
+    border: none;
+    border-radius: 10px;
+    font-weight: bold;
+}
